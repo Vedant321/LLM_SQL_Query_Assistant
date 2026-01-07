@@ -39,11 +39,11 @@ This project is designed as a **production-style system**, not just a demo — f
 
 ### 🔐 Login Screen
 
-![Login Screen](assets/Movie_app_Login.png)
+![Login Screen](StreamLit_app/assets/Movie_app_Login.png)
 
 ### 📈 Query Results
 
-![Query Results](assets/Movie_Results.png)
+![Query Results](StreamLit_app/assets/Movie_Results.png)
 
 ---
 
